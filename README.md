@@ -1,5 +1,5 @@
 # Transfer-Learning-in-RL
-I have done this project under the guidance of Prof.Matthew E. Taylor and Srijita Das fron the Intelligent Robot Learning Laboratory(https://irll.ca/team/) of University of Alberta. I work in the areas of improving RL through prior knowlegdge and transfer learning in RL. A mojor bottleneck of RL algorithms id their sample inefficiency. To make RL algorithms really deployable in practical settings we need to make sample efficient RL algorithms that generalise well in the real world.
+I have done this project under the guidance of Prof.Matthew E. Taylor and Srijita Das in the Intelligent Robot Learning Laboratory(https://irll.ca/team/) of University of Alberta. I work in the areas of improving RL through prior knowlegdge and transfer learning in RL. A mojor bottleneck of RL algorithms id their sample inefficiency. To make RL algorithms really deployable in practical settings we need to make sample efficient RL algorithms that generalise well in the real world.
 
 ## Setup and Installation
 1. Run `bash setup.sh` to create the directories necessary to store experiment results
